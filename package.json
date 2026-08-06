@@ -1,0 +1,25 @@
+{
+  "name": "chai_aur_js_backend",
+  "version": "1.0.0",
+  "description": "series for js_backend",
+  "keywords": [
+    "backend",
+    "js",
+    "chai"
+  ],
+  "homepage": "https://github.com/2006satyamgupta-bit/Chai_aur_js_backend#readme",
+  "bugs": {
+    "url": "https://github.com/2006satyamgupta-bit/Chai_aur_js_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2006satyamgupta-bit/Chai_aur_js_backend.git"
+  },
+  "license": "ISC",
+  "author": "Satyam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
